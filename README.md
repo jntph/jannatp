@@ -1,9 +1,9 @@
 - 👋 Hello, I’m Janna! Nice to "meet" you! 
-- 👀 I’m exploring the IT field and currently looking into Cloud Computing.
-- 🌱 Recently completed the IBM Data Science Professional Certificate program on Coursera.
-- 💞️ Looking out for a mentor and working opportunities in this field to enrich my experience.
+- 👀 Currently studying for AWS Cloud Architect Associate Certification while building my Cloud Porfolio.
+- 🌱 Certified AWS Cloud Practitioner | IBM Data Science Professional Certificate (11/2024).
+- 💞️ Looking for a mentor and/or working opportunities in this field to enrich my experience.
 - 📫 Reach me at jannaphm@gmail.com
-- ⚡ Fun fact: I love playing badminton 😍🏸🏸🏸
+- ⚡ Btw, I love playing badminton 😍🏸🏸🏸
 - Thank you for checking out my GitHub! Have a great day! 🙏🏼
 
 <!---
